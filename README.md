@@ -14,7 +14,7 @@
 - 💻 **Specialization**: Web Development  
 - 🌱 **Currently Learning**: Advanced German Language, and AI  
 - 💡 **Fun Fact**: I’m a problem solver who loves building innovative tech solutions!  
-- 📫 **Contact Me**: [Email](dev.mahditorkaman@gmail.com)
+- 📫 **Contact Me**: [Email](mailto:dev.mahditorkaman@gmail.com)
 ---
 
 ### 🛠️ My Toolbox  
