@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🌐 **Name**: **Mahdi Torkoman**  
+- 🌐 **Name**: **Mahdi Torkaman**  
 - 💻 **Specialization**: Web Development  
 - 🌱 **Currently Learning**: Advanced German Language, and AI  
 - 💡 **Fun Fact**: I’m a problem solver who loves building innovative tech solutions!  
