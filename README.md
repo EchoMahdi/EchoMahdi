@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🌐 **Name**: **Mahdi Torkoman**  
 - 💻 **Specialization**: Web Development  
@@ -16,23 +16,50 @@
 - 💡 **Fun Fact**: I’m a problem solver who loves building innovative tech solutions!  
 - 📫 **Contact Me**: [Email](dev.mahditorkaman@gmail.com)
 ---
-### 🏆 GitHub Achievements  
+
+### 🛠️ My Toolbox  
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
-  <a href="https://github.com/EchoMahdi?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=EchoMahdi&column=6&margin-w=10&margin-h=10&theme=nord" 
-         alt="GitHub Achievements" />
-  </a>
+    <a href="https://www.php.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+         alt="Python" width="50" height="50" style="margin: 10px;"/></a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         alt="Python" width="50" height="50" style="margin: 10px;"/</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+         alt="JavaScript" width="50" height="50" style="margin: 10px;"/></a>
+  <a href="https://golang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" 
+         alt="Go" width="50" height="50" style="margin: 10px;"/></a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+         alt="Git" width="50" height="50" style="margin: 10px;"/></a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+         alt="Linux" width="50" height="50" style="margin: 10px;"/></a>
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoMahdi&layout=compact&theme=nord" 
+       alt="Top Languages" />
+  </div>
+
 </div>
 
 ---
 
-### 📈 Stats & Activity  
+### 📈 Stats & Activity  🏆 GitHub Achievements  
+
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=EchoMahdi&show_icons=true&theme=nord&count_private=true" 
        alt="GitHub Stats" style="margin-right: 10px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EchoMahdi&theme=nord" 
        alt="GitHub Streak" style="margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoMahdi&layout=compact&theme=nord" 
-       alt="Top Languages" />
+  
+</div>
+
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+  <a href="https://github.com/EchoMahdi?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=EchoMahdi&column=6&margin-w=10&margin-h=10&theme=nord" 
+         alt="GitHub Achievements" />
+  </a>
 </div>
 
