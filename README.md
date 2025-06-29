@@ -8,14 +8,16 @@
 
 ---
 
-### 🚀 About Me
+🚀 About Me
+🌐 Name: Mahdi Torkaman
 
-- 🌐 **Name**: **Mahdi Torkaman**  
-- 💻 **Specialization**: Web Development  
-- 🌱 **Currently Learning**: Advanced German Language, and AI  
-- 💡 **Fun Fact**: I’m a problem solver who loves building innovative tech solutions!  
-- 📫 **Contact Me**: [Email](mailto:dev.mahditorkaman@gmail.com)
----
+💻 Specialization: Web Developer
+
+🌱 Currently Learning: Artificial Intelligence (AI)
+
+💡 Fun Fact: I’m a problem-solver who loves building innovative and practical tech solutions.
+
+📫 Contact: dev.mahditorkaman@gmail.com
 
 ### 🛠️ My Toolbox  
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
